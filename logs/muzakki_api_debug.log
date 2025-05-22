@@ -1,0 +1,110 @@
+2025-05-21 19:20:42 - GET params: {"id":"1425","_":"1747848042114"}
+2025-05-21 19:20:42 - POST params: []
+2025-05-21 19:20:42 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747848042114
+2025-05-21 19:20:42 - ID yang diperoleh: 1425
+2025-05-21 19:20:42 - Hasil validasi ID: 1425
+2025-05-21 19:20:42 - Mencari muzakki dengan ID: 1425
+2025-05-21 19:20:42 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:20:42 - Jumlah baris hasil query: 1
+2025-05-21 19:20:42 - Data ditemukan untuk ID 1425
+2025-05-21 19:20:42 - Data: {"id_muzakki":1425,"nama_muzakki":"adam2","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:20:42 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam2","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:20:50 - GET params: {"id":"1425","_":"1747848050004"}
+2025-05-21 19:20:50 - POST params: []
+2025-05-21 19:20:50 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747848050004
+2025-05-21 19:20:50 - ID yang diperoleh: 1425
+2025-05-21 19:20:50 - Hasil validasi ID: 1425
+2025-05-21 19:20:50 - Mencari muzakki dengan ID: 1425
+2025-05-21 19:20:50 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:20:50 - Jumlah baris hasil query: 1
+2025-05-21 19:20:50 - Data ditemukan untuk ID 1425
+2025-05-21 19:20:50 - Data: {"id_muzakki":1425,"nama_muzakki":"adam22","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:20:50 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam22","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:23:52 - GET params: {"id":"44","_":"1747848232201"}
+2025-05-21 19:23:52 - POST params: []
+2025-05-21 19:23:52 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=44&_=1747848232201
+2025-05-21 19:23:52 - ID yang diperoleh: 44
+2025-05-21 19:23:52 - Hasil validasi ID: 44
+2025-05-21 19:23:52 - Mencari muzakki dengan ID: 44
+2025-05-21 19:23:52 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:23:52 - Jumlah baris hasil query: 1
+2025-05-21 19:23:52 - Data ditemukan untuk ID 44
+2025-05-21 19:23:52 - Data: {"id_muzakki":44,"nama_muzakki":"Ahmad Setiawan","jumlah_tanggungan":4,"alamat":"Dusun Babakan, RT 02\/RW 01, Desa Cimari, Kec Cikoneng","keterangan":"Warga RT 02\/RW 01, tinggal di Dusun Babakan, berprofesi sebagai pelajar, termasuk golongan miskin."}
+2025-05-21 19:23:52 - Mengirim data: {"id_muzakki":44,"nama_muzakki":"Ahmad Setiawan","jumlah_tanggungan":4,"alamat":"Dusun Babakan, RT 02\/RW 01, Desa Cimari, Kec Cikoneng","keterangan":"Warga RT 02\/RW 01, tinggal di Dusun Babakan, berprofesi sebagai pelajar, termasuk golongan miskin."}
+2025-05-21 19:23:55 - GET params: {"id":"23","_":"1747848235741"}
+2025-05-21 19:23:55 - POST params: []
+2025-05-21 19:23:55 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=23&_=1747848235741
+2025-05-21 19:23:55 - ID yang diperoleh: 23
+2025-05-21 19:23:55 - Hasil validasi ID: 23
+2025-05-21 19:23:55 - Mencari muzakki dengan ID: 23
+2025-05-21 19:23:55 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:23:55 - Jumlah baris hasil query: 1
+2025-05-21 19:23:55 - Data ditemukan untuk ID 23
+2025-05-21 19:23:55 - Data: {"id_muzakki":23,"nama_muzakki":"Ahmad Syahputra","jumlah_tanggungan":5,"alamat":"Dusun Babakan, RT 07\/RW 04, Desa Cimari, Kec Cikoneng","keterangan":"Warga RT 07\/RW 04, tinggal di Dusun Babakan, berprofesi sebagai janda, termasuk golongan mampu."}
+2025-05-21 19:23:55 - Mengirim data: {"id_muzakki":23,"nama_muzakki":"Ahmad Syahputra","jumlah_tanggungan":5,"alamat":"Dusun Babakan, RT 07\/RW 04, Desa Cimari, Kec Cikoneng","keterangan":"Warga RT 07\/RW 04, tinggal di Dusun Babakan, berprofesi sebagai janda, termasuk golongan mampu."}
+2025-05-21 19:23:59 - GET params: {"id":"37","_":"1747848239597"}
+2025-05-21 19:23:59 - POST params: []
+2025-05-21 19:23:59 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=37&_=1747848239597
+2025-05-21 19:23:59 - ID yang diperoleh: 37
+2025-05-21 19:23:59 - Hasil validasi ID: 37
+2025-05-21 19:23:59 - Mencari muzakki dengan ID: 37
+2025-05-21 19:23:59 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:23:59 - Jumlah baris hasil query: 1
+2025-05-21 19:23:59 - Data ditemukan untuk ID 37
+2025-05-21 19:23:59 - Data: {"id_muzakki":37,"nama_muzakki":"Budi Prasetyo","jumlah_tanggungan":5,"alamat":"Dusun Kulon, RT 04\/RW 01, Desa Cimari, Kec Cikoneng","keterangan":"Warga RT 04\/RW 01, tinggal di Dusun Kulon, berprofesi sebagai duda, termasuk golongan miskin."}
+2025-05-21 19:23:59 - Mengirim data: {"id_muzakki":37,"nama_muzakki":"Budi Prasetyo","jumlah_tanggungan":5,"alamat":"Dusun Kulon, RT 04\/RW 01, Desa Cimari, Kec Cikoneng","keterangan":"Warga RT 04\/RW 01, tinggal di Dusun Kulon, berprofesi sebagai duda, termasuk golongan miskin."}
+2025-05-21 19:24:05 - GET params: {"id":"1425","_":"1747848245854"}
+2025-05-21 19:24:05 - POST params: []
+2025-05-21 19:24:05 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747848245854
+2025-05-21 19:24:05 - ID yang diperoleh: 1425
+2025-05-21 19:24:05 - Hasil validasi ID: 1425
+2025-05-21 19:24:05 - Mencari muzakki dengan ID: 1425
+2025-05-21 19:24:05 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:24:05 - Jumlah baris hasil query: 1
+2025-05-21 19:24:05 - Data ditemukan untuk ID 1425
+2025-05-21 19:24:05 - Data: {"id_muzakki":1425,"nama_muzakki":"adam22","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:24:05 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam22","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:24:46 - GET params: {"id":"1425","_":"1747848286848"}
+2025-05-21 19:24:46 - POST params: []
+2025-05-21 19:24:46 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747848286848
+2025-05-21 19:24:46 - ID yang diperoleh: 1425
+2025-05-21 19:24:46 - Hasil validasi ID: 1425
+2025-05-21 19:24:46 - Mencari muzakki dengan ID: 1425
+2025-05-21 19:24:46 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-21 19:24:46 - Jumlah baris hasil query: 1
+2025-05-21 19:24:46 - Data ditemukan untuk ID 1425
+2025-05-21 19:24:46 - Data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-21 19:24:46 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-22 03:21:42 - GET params: {"id":"1425","_":"1747876902028"}
+2025-05-22 03:21:42 - POST params: []
+2025-05-22 03:21:42 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747876902028
+2025-05-22 03:21:42 - ID yang diperoleh: 1425
+2025-05-22 03:21:42 - Hasil validasi ID: 1425
+2025-05-22 03:21:42 - Mencari muzakki dengan ID: 1425
+2025-05-22 03:21:42 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-22 03:21:42 - Jumlah baris hasil query: 1
+2025-05-22 03:21:42 - Data ditemukan untuk ID 1425
+2025-05-22 03:21:42 - Data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-22 03:21:42 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-22 03:45:38 - GET params: {"id":"1425","_":"1747878338206"}
+2025-05-22 03:45:38 - POST params: []
+2025-05-22 03:45:38 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747878338206
+2025-05-22 03:45:38 - ID yang diperoleh: 1425
+2025-05-22 03:45:38 - Hasil validasi ID: 1425
+2025-05-22 03:45:38 - Mencari muzakki dengan ID: 1425
+2025-05-22 03:45:38 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-22 03:45:38 - Jumlah baris hasil query: 1
+2025-05-22 03:45:38 - Data ditemukan untuk ID 1425
+2025-05-22 03:45:38 - Data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-22 03:45:38 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-22 04:25:23 - GET params: {"id":"1425","_":"1747880723461"}
+2025-05-22 04:25:23 - POST params: []
+2025-05-22 04:25:23 - REQUEST_URI: /zakatfitrah/views/get_muzakki.php?id=1425&_=1747880723461
+2025-05-22 04:25:23 - ID yang diperoleh: 1425
+2025-05-22 04:25:23 - Hasil validasi ID: 1425
+2025-05-22 04:25:23 - Mencari muzakki dengan ID: 1425
+2025-05-22 04:25:23 - Query: SELECT id_muzakki, nama_muzakki, jumlah_tanggungan, alamat, keterangan FROM muzakki WHERE id_muzakki = ?
+2025-05-22 04:25:23 - Jumlah baris hasil query: 1
+2025-05-22 04:25:23 - Data ditemukan untuk ID 1425
+2025-05-22 04:25:23 - Data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
+2025-05-22 04:25:23 - Mengirim data: {"id_muzakki":1425,"nama_muzakki":"adam222","jumlah_tanggungan":2,"alamat":"2","keterangan":"2"}
